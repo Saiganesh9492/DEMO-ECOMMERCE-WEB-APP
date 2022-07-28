@@ -1,4 +1,4 @@
-# Creating a RESTful API with Node.js and express
+# Creating a Demo Ecommerce RESTful API with Node.js and express
 
 ## Usage
 
